@@ -4,6 +4,9 @@
 
 To create a model which can when given a user input produces a summary of the most relevant information from the huge data corpus fed to it.
 
+## Dataset :
+`sus.json` contains a dictionary of list of information (paragraphs) about various topics.
+
 ## Approach: 
 
 
@@ -22,6 +25,8 @@ To create a model which can when given a user input produces a summary of the mo
 
 A sample of the produced summary is also given.
 
-Article for reference : 1. https://medium.com/mlearning-ai/semantic-search-with-s-bert-is-all-you-need-951bc710e160#:~:text=The%20idea%20behind%20semantic%20search,from%20your%20corpus%20is%20found.
+Article for reference :
+
+1. https://medium.com/mlearning-ai/semantic-search-with-s-bert-is-all-you-need-951bc710e160#:~:text=The%20idea%20behind%20semantic%20search,from%20your%20corpus%20is%20found.
 
 2. https://medium.com/artificialis/t5-for-text-summarization-in-7-lines-of-code-b665c9e40771
